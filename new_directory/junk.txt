@@ -1,0 +1,2 @@
+this is junk.txt added with the "new_directory"
+we'll see if this works
