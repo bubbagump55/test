@@ -1,2 +1,2 @@
 # test
-this is a test
+this is a effort to create a repository named "test"
